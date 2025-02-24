@@ -54,7 +54,7 @@ main {
 
 div.result {
   min-width: 320px;
-  max-width: 400px;
+  max-width: 350px;
   height: 300px;
   margin: auto;
   border: solid 3px white;
