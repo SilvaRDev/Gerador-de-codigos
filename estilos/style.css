@@ -53,8 +53,8 @@ main {
 }
 
 div.result {
-  min-width: 320px;
-  max-width: 350px;
+  min-width: 300px;
+  max-width: 320px;
   height: 300px;
   margin: auto;
   border: solid 3px white;
@@ -63,7 +63,7 @@ div.result {
 
 div.result > h2#codigo {
   margin: 135px auto 75px auto;
-  width: 320px;
+  width: 290px;
   height: 28px;
   font-size: 1.5em;
   background-color: white;
